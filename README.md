@@ -1,0 +1,2 @@
+# Swift Argument Label Error
+This example demonstrates a common error in Swift: omitting argument labels when calling functions. Swift's type system relies on argument labels to ensure type safety and code readability. Forgetting an argument label will lead to a compile-time error.  The solution showcases the correct usage with labels.
